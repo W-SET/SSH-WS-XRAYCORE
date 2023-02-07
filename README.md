@@ -9,7 +9,7 @@ Only: OS SUPPORT )
 - Debian 10,Debian 11
 - Ubuntu 18.04,Ubuntu 20.04,Ubuntu 21.04,Ubuntu 22.04 
 
-XX: INFO SERVICE
+ INFO SERVICE
  >>> Service & Port
    - OpenSSH                 : 22
    - SSH Websocket           : 80
@@ -45,6 +45,5 @@ XX: INFO SERVICE
    - Restore Data
    - Full Orders For Various Services
 
-Support : Worryfree, Kuota-abis,
-HTTPS://t.me/amantubilah
+Support : Worryfree, Kuota-abis
 
