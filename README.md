@@ -1,4 +1,4 @@
-## FREE INSTALLER PREMIUM
+## FREE INSTALLER PREMIUM ==>>VMESS ALL/MULTI/DYNAMIC UPDATE PATH
 <p align="center">WEBSOCKET / SSH / SSL / XRAY</p>
     
  Installation Link
@@ -45,5 +45,5 @@ Only: OS SUPPORT )
    - Restore Data
    - Full Orders For Various Services
 
-Support : Worryfree, Kuota-abis
+Support : auto add vmess Worryfree, Kuota-abis 
 
