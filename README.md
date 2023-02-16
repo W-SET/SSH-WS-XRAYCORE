@@ -26,6 +26,7 @@ Only: OS SUPPORT )
    - Trojan WS               : 443
    - Trojan GO               : 443
    - Sodosok WS/GRPC         : 443
+   - DNS cang
 
    >>> Server Information & Other Features
    - Timezone                : Asia/Jakarta (GMT +7)
